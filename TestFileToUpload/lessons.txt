@@ -1,0 +1,44 @@
+1,Basic Sculling,Monday,4-5pm,01-04-2024,4,1,1
+2,Sidestroke,Monday,5-6pm,01-04-2024,4,2,3
+3,Breaststroke,Monday,6-7pm,01-04-2024,4,3,2
+4,Swim-arounds,Wednesday,4-5pm,03-04-2024,4,4,5
+5,Building Endurance,Wednesday,5-6pm,03-04-2024,4,5,4
+6,Back Crawling,Wednesday,6-7pm,03-04-2024,4,1,4
+7,Stroke Techniques,Friday,4-5pm,05-04-2024,4,2,2
+8,Butterfly,Friday,5-6pm,05-04-2024,4,3,4
+9,Front Crawl ,Friday,6-7pm,05-04-2024,4,4,3
+10,Swim Basics,Saturday,2-3pm,06-04-2024,4,5,1
+11,Stroke Development,Saturday,3-4pm,06-04-2024,4,2,5
+12,Basic Sculling,Monday,4-5pm,08-04-2024,4,1,2
+13,Sidestroke,Monday,5-6pm,08-04-2024,4,2,1
+14,Breaststroke,Monday,6-7pm,08-04-2024,4,3,4
+15,Swim-arounds,Wednesday,4-5pm,10-04-2024,4,4,2
+16,Building Endurance,Wednesday,5-6pm,10-04-2024,4,5,5
+17,Back Crawling,Wednesday,6-7pm,10-04-2024,4,1,3
+18,Stroke Techniques,Friday,4-5pm,12-04-2024,4,2,2
+19,Butterfly,Friday,5-6pm,12-04-2024,4,3,5
+20,Front Crawl ,Friday,6-7pm,12-04-2024,4,4,4
+21,Swim Basics,Saturday,2-3pm,13-04-2024,4,5,1
+22,Stroke Development,Saturday,3-4pm,13-04-2024,4,2,2
+23,Basic Sculling,Monday,4-5pm,15-04-2024,4,1,3
+24,Sidestroke,Monday,5-6pm,15-04-2024,4,2,5
+25,Breaststroke,Monday,6-7pm,15-04-2024,4,3,3
+26,Swim-arounds,Wednesday,4-5pm,17-04-2024,4,4,1
+27,Building Endurance,Wednesday,5-6pm,17-04-2024,4,5,3
+28,Back Crawling,Wednesday,6-7pm,17-04-2024,4,1,2
+29,Stroke Techniques,Friday,4-5pm,19-04-2024,4,2,5
+30,Butterfly,Friday,5-6pm,19-04-2024,4,3,4
+31,Front Crawl ,Friday,6-7pm,19-04-2024,4,4,1
+32,Swim Basics,Saturday,2-3pm,20-04-2024,4,5,2
+33,Stroke Development,Saturday,3-4pm,20-04-2024,4,2,3
+34,Basic Sculling,Monday,4-5pm,22-04-2024,4,1,4
+35,Sidestroke,Monday,5-6pm,22-04-2024,4,2,5
+36,Breaststroke,Monday,6-7pm,22-04-2024,4,3,2
+37,Swim-arounds,Wednesday,4-5pm,24-04-2024,4,4,1
+38,Building Endurance,Wednesday,5-6pm,24-04-2024,4,5,3
+39,Back Crawling,Wednesday,6-7pm,24-04-2024,4,1,3
+40,Stroke Techniques,Friday,4-5pm,26-04-2024,4,2,4
+41,Butterfly,Friday,5-6pm,26-04-2024,4,3,5
+42,Front Crawl ,Friday,6-7pm,26-04-2024,4,4,1
+43,Swim Basics,Saturday,2-3pm,27-04-2024,4,5,3
+44,Stroke Development,Saturday,3-4pm,27-04-2024,4,2,4
